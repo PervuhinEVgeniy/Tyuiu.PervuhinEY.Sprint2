@@ -38,7 +38,7 @@ namespace Tyuiu.PervuhinEY.Sprint2.Task2.V8
             Console.WriteLine("********************************************************************");
             Console.WriteLine("* Результат                                                        *");
             Console.WriteLine("********************************************************************");
-            Console.WriteLine(" Значение Y = "+ res);
+            Console.WriteLine($" Значение Y =  {res:F3}");
             Console.ReadKey();
 
         }
