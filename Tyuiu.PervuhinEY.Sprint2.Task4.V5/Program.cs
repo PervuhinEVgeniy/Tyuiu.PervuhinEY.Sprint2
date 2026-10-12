@@ -14,7 +14,7 @@ namespace Tyuiu.PervuhinEY.Sprint2.Task2.V8
             Console.WriteLine("********************************************************************");
             Console.WriteLine("* Тема: Базовые навыки работы с C#                                 *");
             Console.WriteLine("* Задание #4                                                       *");
-            Console.WriteLine("* Вариант #8                                                       *");
+            Console.WriteLine("* Вариант #5                                                       *");
             Console.WriteLine("* Выполнил: Первухин Е. Ю.| АСОиУБ-26-1                            *");
             Console.WriteLine("********************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                         *");
